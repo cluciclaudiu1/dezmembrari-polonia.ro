@@ -1219,7 +1219,7 @@ section[id]{
 
   /* HERO */
   .hero{
-    min-height: 102vh;
+    min-height: 112vh;
     background-position: center;
     background-image: url("hero_tel.png");
   }
@@ -1548,4 +1548,5 @@ section[id]{
     justify-content: center;
   }
 }
+
 
